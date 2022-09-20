@@ -1,0 +1,17 @@
+.imagen{
+    width: 400px;
+    height: 300px;
+    border-radius: 5%;
+}
+.p{
+    margin:0 auto;
+    width: 600px;
+}
+
+.div{
+    margin:0 auto;
+    background-color: aliceblue;
+    background: rgba(51, 170, 51, .7);
+    width: 600px;
+    border-radius: 5%;
+}
